@@ -23,9 +23,9 @@
 8、打开TikTok<br><br>
 
 ### 温馨提示：
-默认是日本区，可以更改这行代码最后面的JP  <code>(?<=_region=)CN(?=&) url 307 JP</code><br>
+默认是日本，可以更改这行代码最后面的JP  <code>(?<=_region=)CN(?=&) url 307 JP</code><br>
 美国示例：(?<=_region=)CN(?=&) url 307 US<br>
-英文简写 JP（日本）｜KR（韩国）｜UK（英国）｜US（美国）｜TW（台湾）<br>
+英文简写 JP（日本）、US（美国）、KR（韩国）、TW（台湾）<br>
     
 ### 其它教程
 Quantumult X 新手入门教程：https://youtu.be/oOFGDXMBD5s

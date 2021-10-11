@@ -1,5 +1,5 @@
 # Quantumult X 解锁 TikTok 看国际抖音不拔卡规则
-
+Quantumult X TikTok视频教程：▶https://youtu.be/81dqTs0uUV8
 ### 操作步骤<br>
 1、下载 Quantumult X 和 TikTok，需要用美区AppleID下载，下载完先不要打开TikTok。<br>
 - 注册美国AppleID教程：https://github.com/kjfx/AppleID<br>

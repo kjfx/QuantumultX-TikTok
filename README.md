@@ -1,4 +1,7 @@
 # Quantumult X 解锁 TikTok 看国际抖音不拔卡规则
+### 最新版的TikTok暂时不支持免拔卡使用，需要下载旧版。<br>
+<a href="http://a.ssv2ray.com/tiktok.html" target="_blank">下载 tiktok ios ipa 旧版 点击下载>></a><br>
+
 Quantumult X TikTok视频教程：▶https://youtu.be/81dqTs0uUV8
 ### 操作步骤<br>
 1、下载 Quantumult X 和 TikTok，需要用美区AppleID下载，下载完先不要打开TikTok。<br>

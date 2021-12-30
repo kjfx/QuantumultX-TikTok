@@ -1,12 +1,10 @@
 # Quantumult X 解锁 TikTok 看国际抖音不拔卡规则
-### 最新版的TikTok暂时不支持免拔卡使用，需要下载旧版。<br>
-<a href="http://a.ssv2ray.com/tiktok.html" target="_blank">1、下载 tiktok ios ipa 旧版 点击下载>></a><br>
+Quantumult X TikTok视频教程：https://youtu.be/81dqTs0uUV8 <br>
+注册美国AppleID教程：https://github.com/kjfx/AppleID<br>
+### *最新版的TikTok暂时不支持免拔卡使用，需要下载旧版。<br>
 
-Quantumult X TikTok视频教程：▶https://youtu.be/81dqTs0uUV8
 ### 操作步骤<br>
-
-- 注册美国AppleID教程：https://github.com/kjfx/AppleID<br>
-
+<a href="http://a.ssv2ray.com/tiktok.html" target="_blank">1、下载 tiktok ios ipa 旧版 点击下载>></a><br>
 2、打开 Quantumult X<br>
 3、打开 <code>重写</code> 和 <code>MitM</code> 开关<br>
 4、在MitM选项下，点击生成证书 → 配置证书 → 安装描述文件 → 信任证书设置<br>
@@ -22,7 +20,7 @@ Quantumult X TikTok视频教程：▶https://youtu.be/81dqTs0uUV8
 
     hostname = *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com
 
-7、Quantumult X 添加节点，开启科学上网<br>
+7、Quantumult X 开启科学上网<br>
 8、打开TikTok<br><br>
 
 ### 温馨提示：

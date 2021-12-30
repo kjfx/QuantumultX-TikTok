@@ -30,3 +30,8 @@ Quantumult X TikTok视频教程：https://youtu.be/KLBnwY0ZLbg <br>
     
 ### 其它教程
 Quantumult X 新手入门教程：https://youtu.be/oOFGDXMBD5s
+
+### IOS看不了TikTok解决方法：<br>
+1、下载TikTok 21.1.0版本使用。<br>
+2、插上手机卡，不要拔卡，重新看以上视频教程操作。<br>
+TikTok 电报交流群：<a href="https://t.me/tiktokfx" target="_blank">@tiktokfx</a><br>

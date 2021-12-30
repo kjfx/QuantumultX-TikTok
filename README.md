@@ -1,5 +1,5 @@
 # Quantumult X 解锁 TikTok 看国际抖音不拔卡规则
-Quantumult X TikTok视频教程：https://youtu.be/81dqTs0uUV8 <br>
+Quantumult X TikTok视频教程：https://youtu.be/KLBnwY0ZLbg <br>
 注册美国AppleID教程：https://github.com/kjfx/AppleID<br>
 ### *最新版的TikTok暂时不支持免拔卡使用，需要下载旧版。<br>
 
